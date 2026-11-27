@@ -1,4 +1,5 @@
 // "The World in One Picture" — a news-image-20261126 entry (Node 22, stdlib only).
+// Revised in the clone after upload: build output re-verified byte-identical.
 //
 // The picture is the entry.png beside this file: a newspaper front page drawn
 // for Thursday 26 November 2026 by tools/render.py (Pillow shapes and text;

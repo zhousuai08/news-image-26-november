@@ -52,3 +52,4 @@ comes from a story dated any other day.
 - Bounty: [Sum up 26 November's world news in one image](https://make.fun/bounty/news-image-20261126)
 - $100 · 50 places paid (1st $20, 2nd $12, 3rd $6, 4th–10th $2, 11th–50th $1.20)
 - Deadline: Saturday 28 November 2026, 08:00 CST (00:00 UTC)
+- Revised after upload: the build output was re-verified byte-identical.
